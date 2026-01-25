@@ -1,3 +1,8 @@
-const cat = require("cat-me")
+const express = require("express")
+ 
+ const app  = express()
 
-console.log(cat());
+
+ app.listen(3000,(req,res)=>{
+ 
+ })

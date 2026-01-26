@@ -14,5 +14,5 @@ app.get('/appo', (req, res) => {
 let aoo  = 0;
 app.listen(3000, () => {
 aoo++;
-    console.log('Server is running on port 3000');
-});// ye  app ko port det
+    console.log('Server is running on port 3000'); // ye code terminal  pe print hoga
+});// ye  app ko port dets h or run karta h 
